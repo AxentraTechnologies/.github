@@ -1,4 +1,4 @@
-# Axentra Technologies
+# Axentra Technologies Pvt Ltd
 
 ## 🌟 Mission Statement
 > To deliver meaningful, accessible, and results-driven digital products and services that solve real-world challenges. We aim to simplify technology through intuitive and intelligent solutions that empower success in an increasingly digital world both locally and globally.
